@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "479824763955",
+    "project_id": "jetsnack-e5ef1",
+    "storage_bucket": "jetsnack-e5ef1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479824763955:android:83722b2f5661a7cd4bd746",
+        "android_client_info": {
+          "package_name": "br.com.gilbercs.jetsnack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVTYVW50bjzNuRM10T-aqhnxH0Eokl2ZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
