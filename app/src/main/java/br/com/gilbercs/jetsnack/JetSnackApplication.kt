@@ -7,5 +7,4 @@ import dagger.hilt.android.lifecycle.HiltViewModel
 //Hilt para gerencia o ciclo de vida
 //------------------------------------------------
 @HiltViewModel
-class JetSnackApplication: Application(){
-}
+class JetSnackApplication: Application()
