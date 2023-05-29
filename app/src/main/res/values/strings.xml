@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">JetSnack</string>
+    <!--String utilizado TopAppBar-->
+    <!--Titulo utilizado no App-->
+    <string name="title_register">Criar Conta</string>
+    <string name="title_login">Login</string>
+    <!--String: utilizado Login e registro-->
+    <string name="buttom_create">cadastrar</string>
+    <string name="buttom_login">Entrar</string>
+    <string name="label_name">Digite seu Nome!</string>
+    <string name="label_email">Digite seu email!</string>
+    <string name="label_phone">Digite Numero de Celular!</string>
+    <string name="label_password">Digite sua senha</string>
+    <string name="placeholder_name">Digite seu Nome!</string>
+    <string name="placeholder_email">Digite seu email!</string>
+    <string name="placeholder_phone">Digite Numero de Celular!</string>
+    <string name="placeholder_password">Digite sua senha</string>
+    <string name="text_user_yes">J á é um membro? </string>
+    <string name="text_user_no"> Não tem conta? </string>
+    <string name="text_enter"> Entrar </string>
+    <string name="text_add"> Escreva-se</string>
+    <!--String: contentDescription-->
+    <string name="content_description_name"> Escreva-se</string>
 </resources>
